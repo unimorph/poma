@@ -12,5 +12,10 @@ TBA
 
 TBA
 
+## Shared Tasks
+TBA
+
 ## Annotators
 Antonios Anastasopoulos
+
+## License
