@@ -16,6 +16,8 @@ TBA
 TBA
 
 ## Annotators
+Ritvan Karahodja
 Antonios Anastasopoulos
+
 
 ## License
